@@ -95,7 +95,6 @@ for i in range(0,9):
 ### Global Thresholding
 ![image](https://github.com/Jeevithaelumalai/THRESHOLDING/assets/118708245/ca1f8a48-558c-46b7-bdd3-a69bee0d1d0f)
 ![image](https://github.com/Jeevithaelumalai/THRESHOLDING/assets/118708245/110dcf3a-1856-4c19-9e5f-41fa450026a6)
-![image](https://github.com/Jeevithaelumalai/THRESHOLDING/assets/118708245/541ca271-d137-4876-9e5a-f6981f3cedd2)
 ![image](https://github.com/Jeevithaelumalai/THRESHOLDING/assets/118708245/eedfb179-017e-4805-97a2-5e983a95bcf4)
 ![image](https://github.com/Jeevithaelumalai/THRESHOLDING/assets/118708245/7af585a6-467b-4a84-829c-eada2292b0af)
 ![image](https://github.com/Jeevithaelumalai/THRESHOLDING/assets/118708245/67ca55a2-ef70-43aa-ab6e-334172cbad24)
